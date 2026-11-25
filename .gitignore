@@ -1,0 +1,24 @@
+# API keys and secrets
+.env
+.env.*
+
+# Allow example environment file
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code personal settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
